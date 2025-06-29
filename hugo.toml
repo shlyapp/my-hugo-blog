@@ -3,3 +3,18 @@ languageCode = 'ru-ru'
 title = 'selfdoor blog'
 
 theme = "hugo-theme-yuminos"
+
+[params]
+    relatedMax = 5
+    [params.comments]
+        enabled = true
+    [params.comments.giscus]
+        repo = "shlyapp/my-hugo-blog"
+        repoID = "R_kgDOPDscKQ"
+        category = "Announcements"
+        categoryID = "DIC_kwDOPDscKc4CsMQv"
+        mapping = "title"
+        reactionsEnabled = 1
+        emitMetadata = 0
+        lazy = false
+        lang = "en"
