@@ -1,7 +1,8 @@
 +++
-date = '2025-06-29T12:58:00+04:00'
-draft = false
-title = 'Info'
+title = "Официальное обращение"
+date = 2025-06-29
+image = "images/my-preview.jpg"
+description = "Это официальный пост с важным обращением к обществу."
 +++
 
 Привет!
