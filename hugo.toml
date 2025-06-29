@@ -18,20 +18,3 @@ theme = "hugo-theme-yuminos"
         emitMetadata = 0
         lazy = false
         lang = "en"
-
-[menu]
-  [[menu.main]]
-    identifier = "github"
-    name = "github"
-    url = "https://github.com/shlyapp"
-    weight = 20
-  [[menu.main]]
-    identifier = "tg"
-    name = "telegram"
-    url = "https://t.me/selfdoor"
-    weight = 30
-  [[menu.main]]
-    identifier = "posts"
-    name = "posts"
-    url = "/posts/"
-    weight = 5
